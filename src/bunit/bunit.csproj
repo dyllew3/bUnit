@@ -7,8 +7,8 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<PackageId>bunit</PackageId>
-		<Title>bUnit</Title>
+		<PackageId>bunit-strong-name</PackageId>
+		<Title>bUnit-strong-name</Title>
 		<Description>
 			bUnit is a testing library for Blazor components.
 
